@@ -192,13 +192,9 @@ pip uninstall torch torchvision
 pip install torch torchvision
 ```
 
-## 📈 İstatistikler
 
-### Test Sonuçları
-- ✅ **3/3 fatura başarıyla işlendi**
-- 🎯 **%100 doğruluk (test verilerinde)**
-- ⚡ **Ortalama 2.3 saniye/fatura**
-- 🧠 **LayoutLMv3 + Donut entegrasyonu**
+
+
 
 ### Desteklenen Formatlar
 - 📄 **PNG, JPEG görüntüler**
@@ -214,17 +210,9 @@ pip install torch torchvision
 4. Push edin (`git push origin feature/amazing-feature`)
 5. Pull Request açın
 
-## 📄 Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır.
-
-## 📞 İletişim
-
-- 📧 Email: [your-email]
-- 💼 LinkedIn: [your-linkedin]
-- 🐱 GitHub: [your-github]
 
 ---
 
 
 ⭐ **Bu projeyi beğendiyseniz yıldız vermeyi unutmayın!** ⭐
+

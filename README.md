@@ -100,22 +100,22 @@ BATCH_SIZE = 1
 
 ```json
 {
-  "gönderen": "ODTÜ GELİŞTİRME VAKFI...",
-  "alan": "Onur TAZEFİDAN",
-  "vergi_numarası": "0634081590030001",
-  "fatura_no": "MBT2025000057692",
-  "fatura_tarihi": "07-07-2025",
-  "toplam_tutar": "118,80 TL",
-  "toplam_kdv": "19,80 TL",
+  "gönderen": "",
+  "alan": "",
+  "vergi_numarası": "",
+  "fatura_no": "",
+  "fatura_tarihi": "",
+  "toplam_tutar": "",
+  "toplam_kdv": "",
   "kalemler": [
     {
-      "item_desc": "1. tr Paket 1 - sofsprout.com.tr",
-      "item_qty": "1,00 Adet",
-      "item_gross_price": "118,80 TL"
+      "item_desc": "",
+      "item_qty": "",
+      "item_gross_price": ""
     }
   ],
-  "extraction_method": "LayoutLMv3 + Donut",
-  "confidence": 0.92
+  "extraction_method": "",
+  "confidence": 
 }
 ```
 
@@ -225,5 +225,6 @@ Bu proje MIT lisansı altında lisanslanmıştır.
 - 🐱 GitHub: [your-github]
 
 ---
+
 
 ⭐ **Bu projeyi beğendiyseniz yıldız vermeyi unutmayın!** ⭐

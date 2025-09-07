@@ -1,0 +1,44 @@
+# E-Fatura Bilgi Çıkarma Sistemi - Gereksinimler
+# LayoutLMv3 ve Donut ile doküman anlama
+
+# Ana transformer kütüphanesi
+transformers>=4.35.0
+
+# PyTorch (CPU ve GPU desteği)
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Görüntü işleme
+Pillow>=9.5.0
+opencv-python>=4.8.0
+
+# Veri işleme
+numpy>=1.24.0
+pandas>=2.0.0
+
+# JSON ve dosya işlemleri
+pathlib2>=2.3.7
+
+# OCR desteği (LayoutLM için)
+pytesseract>=0.3.10
+
+# Progress bar ve görselleştirme
+tqdm>=4.65.0
+matplotlib>=3.7.0
+
+# Tokenization ve NLP
+tokenizers>=0.14.0
+sentencepiece>=0.1.99
+
+# Hugging Face model hub
+huggingface-hub>=0.17.0
+
+# Accelerate (model yükleme optimizasyonu)
+accelerate>=0.23.0
+
+# Optional: GPU optimizasyonu için
+# xformers>=0.0.22  # Sadece GPU kullanıyorsanız
+
+# Geliştirme araçları
+ipython>=8.14.0
+jupyter>=1.0.0
